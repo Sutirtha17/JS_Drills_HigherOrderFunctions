@@ -1,3 +1,5 @@
-#JS_Drills_Higher-Order_Functions
+# JS_Drills_HigherOrderFunctions
 
-This is a project which implements the logic and code of functions like forEach,map, reduce and so on.
+This project is for implementing the logic behind various built-in functions like **`array.map()`**,**`array.filter()`**,**`array.reduce()`** and so on.
+
+There are also separate **`test functions`** to test each of those function problems.
