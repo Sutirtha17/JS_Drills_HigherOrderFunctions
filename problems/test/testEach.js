@@ -3,4 +3,4 @@ import { items } from "../../dataset/dataset.js";
 const cb = (value, index) => {
   console.log(value);
 };
-each([], cb);
+each(items, cb);
